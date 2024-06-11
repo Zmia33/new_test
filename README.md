@@ -7,3 +7,4 @@ new text
 +++text new branch
 
 KONFLIKT
++w
