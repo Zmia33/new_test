@@ -8,3 +8,4 @@ new text
 
 OPPA KONFLIKT
 +tsss
++tekst
